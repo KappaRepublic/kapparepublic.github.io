@@ -20,10 +20,8 @@ url:
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
+  - title: 'Face'
+    url: 'http://i3.kym-cdn.com/photos/images/facebook/000/897/576/ce1.jpg'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
