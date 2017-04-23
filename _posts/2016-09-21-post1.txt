@@ -1,9 +1,0 @@
----
-layout: post
-title: "A Post with Images"
-description: "Examples and code for displaying images in posts."
-tags: [honours, university]
-categories: [honours, university]
----
-
-To being my honour's project, I examined a few possible projects that I may be intereseted in pursuing over the year. One such project was examining how the use of different controllers can affect how a player experiences a game.
