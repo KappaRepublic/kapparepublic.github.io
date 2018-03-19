@@ -26,6 +26,13 @@ menu:
     url: '/tags'
   - title: 'Juck'
     url: 'http://jackwillbaptie.com/'
+  - title: 'Projects'
+    url: '#'
+    submenu:
+      - title: 'Advanced Procedural Methods'
+        url: 'https://kapparepublic.github.io/AdvancedProceduralMethods/'
+      - title: 'Dungeons & Janitors'
+        url: 'https://kapparepublic.github.io/Dungeons-Janitors/'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
