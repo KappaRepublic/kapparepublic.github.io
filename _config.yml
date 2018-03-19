@@ -29,6 +29,8 @@ menu:
         url: '/AdvancedProceduralMethods/'
       - title: 'Dungeons & Janitors'
         url: '/Dungeons-Janitors/'
+      - title: 'Programming for Games'
+        url: '/ProgrammingForGames'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
