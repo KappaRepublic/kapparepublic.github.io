@@ -30,9 +30,9 @@ menu:
     url: '#'
     submenu:
       - title: 'Advanced Procedural Methods'
-        url: 'https://kapparepublic.github.io/AdvancedProceduralMethods/'
+        url: '/AdvancedProceduralMethods/'
       - title: 'Dungeons & Janitors'
-        url: 'https://kapparepublic.github.io/Dungeons-Janitors/'
+        url: '/Dungeons-Janitors/'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
