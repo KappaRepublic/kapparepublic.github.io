@@ -30,7 +30,7 @@ menu:
       - title: 'Dungeons & Janitors'
         url: '/Dungeons-Janitors/'
       - title: 'Programming for Games'
-        url: '/ProgrammingForGames'
+        url: '/ProgrammingForGames/'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
