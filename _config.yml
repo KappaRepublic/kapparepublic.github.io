@@ -20,10 +20,6 @@ url:
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Blog'
-    url: '/blog'
-  - title: 'Tags'
-    url: '/tags'
   - title: 'Projects'
     url: '/projects'
     submenu:
@@ -33,6 +29,10 @@ menu:
         url: '/Dungeons-Janitors/'
       - title: 'Programming for Games'
         url: '/ProgrammingForGames/'
+  - title: 'Blog'
+    url: '/posts'
+  - title: 'Tags'
+    url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
