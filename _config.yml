@@ -23,7 +23,7 @@ menu:
   - title: 'Tags'
     url: '/tags'
   - title: 'Projects'
-    url: '#'
+    url: '/projects'
     submenu:
       - title: 'Advanced Procedural Methods'
         url: '/AdvancedProceduralMethods/'
