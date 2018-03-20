@@ -29,6 +29,8 @@ menu:
         url: '/Dungeons-Janitors/'
       - title: 'Programming for Games'
         url: '/ProgrammingForGames/'
+      - title: 'SmartTome'
+        url: "#"
   - title: 'Blog'
     url: '/posts'
   - title: 'Tags'
