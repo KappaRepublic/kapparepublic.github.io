@@ -1,5 +1,5 @@
-title:            Blue Destination
-description:      A Coding Monogatari
+title:            Sebastian Poskitt-Marshall
+description:      A Coding Story
 
 # put your disqus here
 disqus_shortname:
@@ -20,6 +20,8 @@ url:
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Blog'
+    url: '/blog'
   - title: 'Tags'
     url: '/tags'
   - title: 'Projects'
@@ -56,9 +58,6 @@ social:
   - title: "github"
     url: "https://github.com/KappaRepublic"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 
 # Background image to be tiled on all pages
 background: images/stars-publ.png
@@ -70,8 +69,8 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-locale:      en_US
+timezone:    GMT
+locale:      en_UK
 future:      true
 highlighter: rouge
 markdown:    kramdown
